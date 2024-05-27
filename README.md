@@ -21,3 +21,7 @@ Communication:
    Goroutines communicate with each other using channels, which are built-in synchronization primitives in Go. Channels allow goroutines to safely send and receive data, enabling them to coordinate their actions.
 ```
 In summary, goroutines are a lightweight and efficient way to achieve concurrency in Go, allowing developers to write highly concurrent programs with ease.
+
+Link to revise golang functionality
+
+https://www.sohamkamani.com/golang/

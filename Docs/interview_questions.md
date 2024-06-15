@@ -83,3 +83,11 @@ Go provides the time package for working with dates, times, durations, and timer
 It offers functions and methods for parsing, formatting, and manipulating time values.
 
 ## What is the difference between shallow copy and deep copy in Go?
+
+
+## MAKE vs NEW
+
+                 MAKE                                     NEW
+return type    values                                    pointer
+Data structure slice,channel,map                         Normal
+Intialization  Non Zero value(intialize with default)    zero value
